@@ -1,0 +1,4 @@
+web:
+    resource: "@AcmeDemoBundle/Controller/"
+    type:     annotation
+    prefix:   /demo
